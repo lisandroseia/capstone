@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,300;1,400&display=swap');
 @font-face {
     font-family: cocogoose;
-    src: url(/assets/cocogoose/cocogoose.ttf), url(/assets/cocogoose/cocogoose-bold.ttf);
+    src: url(/capstone/assets/cocogoose/cocogoose.ttf), url(/capstone/assets/cocogoose/cocogoose-bold.ttf);
 }
 
 
@@ -66,13 +66,13 @@ header{
     width: 35px;
     aspect-ratio: 1/1;
     z-index: 1000 ;
-    background: url(/assets/images/.hamburger-btn) no-repeat center center;
+    background: url(/capstone/assets/images/.hamburger-btn) no-repeat center center;
     background-size: 100%;
     border: none;
 }
 
 .hamburger-btn[aria-expanded='true'] {
-    background: url(/assets/images/close.png) no-repeat center center;
+    background: url(/capstone/assets/images/close.png) no-repeat center center;
 }
 
 .hamburger-btn:hover{
@@ -275,12 +275,12 @@ align-items: center;
 }
 
 .event1{
-    background: url(/assets/images/2013.jpeg) no-repeat center center;
+    background: url(/capstone/assets/images/2013.jpeg) no-repeat center center;
     background-size: cover;
 }
 
 .event2{
-    background: url(/assets/images/2014.jpg) no-repeat center center;
+    background: url(/capstone/assets/images/2014.jpg) no-repeat center center;
     background-size: cover;
 }
 
