@@ -76,7 +76,7 @@ li > a{
     width: 35px;
     aspect-ratio: 1/1;
     z-index: 1000 ;
-    background: url(/capstone/assets/images/.hamburger-btn) no-repeat center center;
+    background: url(/capstone/assets/images/hamb.png) no-repeat center center;
     background-size: 100%;
     border: none;
 }
