@@ -101,7 +101,7 @@ main{
 .presentation{
     width: 100%;
     height: 120vh;
-    background: url(/assets/images/present-bg.png) no-repeat center center;
+    background: url(/capstone/assets/images/present-bg.png) no-repeat center center;
     background-size: 100% 100%;
 }
 
