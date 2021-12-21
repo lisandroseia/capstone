@@ -58,6 +58,12 @@ header{
     padding-top: 8px;
 }
 
+li > a{
+    text-decoration: none;
+    color: var(--dark-color);
+}
+
+
 .hamburger-btn{
     display: none;
     position: absolute;
