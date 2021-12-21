@@ -21,6 +21,10 @@ font-family: var(--lato-font);
 --cocogoose: cocogoose, sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* header */
 
 main{
