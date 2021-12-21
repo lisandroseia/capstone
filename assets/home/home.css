@@ -156,7 +156,7 @@ h1{
 /* main program */
 
 .program{
-    background: url(/assets/images/) no-repeat center center;
+    background: url(/assets/images/program-bg.png) no-repeat center center;
     background-size: 100% 100%;
     width: 100%;
     height: 100vh;
