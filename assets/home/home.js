@@ -28,7 +28,7 @@ let trainers = [
         name: 'AMR SALAMA',
         bio: 'Egypt-based film director, author and dog trainer',
         desc: 'Amr doesn’t claim any credentials or specific education, but those he’s worked with say he brings the energy and enthusiasm that inspires them to do more for their pets.',
-        img: '/capstone/assets/images/salama.png'
+        img: '../assets/images/salama.png'
     },
     {
         name: 'CESAR MILAN',
