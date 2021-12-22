@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,300;1,400&display=swap');
 @font-face {
     font-family: cocogoose;
-    src: url(/capstone/assets/cocogoose/cocogoose.ttf);
+    src: url(.././cocogoose/cocogoose.ttf);
 }
 
 
@@ -75,13 +75,13 @@ main{
         width: 35px;
         aspect-ratio: 1/1;
         z-index: 1000 ;
-        background: url(/capstone/assets/images/hamb.png) no-repeat center center;
+        background: url(.././images/hamb.png) no-repeat center center;
         background-size: 100%;
         border: none;
     }
     
     .hamburger-btn[aria-expanded='true'] {
-        background: url(/capstone/assets/images/close.png) no-repeat center center;
+        background: url(.././images/close.png) no-repeat center center;
     }
     
     .hamburger-btn:hover{
@@ -116,14 +116,14 @@ main{
 .presentation{
     width: 100%;
     height: 120vh;
-    background: url(/capstone/assets/images/present-bg.png) no-repeat center center;
+    background: url(.././images/present-bg.png) no-repeat center center;
     background-size: 100% 100%;
 }
 
 .bg-cont{
     width: 100%;
     height: 100%;
-    background: rgba(248, 246, 246, 0.8);
+    background: rgba(248, 246, 246, 0.6);
 }
 
 .present-text{
@@ -171,7 +171,7 @@ h1{
 /* main program */
 
 .program{
-    background: url(/capstone/assets/images/program-bg.png) no-repeat center center;
+    background: url(.././images/program-bg.png) no-repeat center center;
     background-size: 100% 100%;
     width: 100%;
     height: 100vh;
