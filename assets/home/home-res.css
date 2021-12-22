@@ -139,6 +139,10 @@ media-querys table
         width: 90%;
         margin: auto;    
     }
+
+    .speaker > img{
+        height: 70%;
+    }
 }
 
 /*average moviles*/
