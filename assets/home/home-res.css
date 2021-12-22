@@ -24,6 +24,10 @@ media-querys table
     main{
         background-color: #fff;
     }
+
+    .sponsor-img{
+        width: 100px;
+    }
 }
 
 /*horizontal moviles*/
@@ -142,6 +146,10 @@ media-querys table
 
     .speaker > img{
         height: 70%;
+    }
+
+    .social{
+        display: none;
     }
 }
 
