@@ -128,57 +128,16 @@ media-querys table
           padding: 20px 50px;
       }
 
-      .sponsors-title{
-        color: #7c7c80;
-        font-family: var(--lato-font);
-        font-weight: 500;
-        font-size: 30px;
-        margin-top: 20px;
-    }
-    
-    .partner{
-        width: 100%;
-        height: 40vh;
-        background: var(--dark-color);
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    .sponsors{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        margin: auto;
-        flex-wrap: wrap;
-    }
-    
-    .sponsor-img{
-        width: 20%;
-        height: 30%;
-        margin: 10px 20px 10px 20px;
-    }
+      footer{
+          display: none;
+      }
 
-    .copyright{
-        width: 100%;
-        height: 10vh;
-    }
-
-    .footer-logo{
-        margin: 0 10px 0 10px;
-    }
-
-    .copy-text{
-    }
-
-    .reservation{
-
-    }
-
-    .copy-claim{
-display: none;
+      .grid-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(8, 1fr);
+        width: 90%;
+        margin: auto;    
     }
 }
 
